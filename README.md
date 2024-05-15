@@ -1,16 +1,18 @@
-SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
+#  EXPERIMENT-SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
 
-AIM:
+# DATE:
 
-To simulate and synthesis finite state machine using Xilinx ISE.
+# AIM:
 
-APPARATUS REQUIRED: 
+To simulate and synthesis finite state machine using vivado ISE.
 
-Xilinx 14.7 
+# APPARATUS REQUIRED: 
+
+vivado 14.7 
 Spartan6 FPGA
 
 PROCEDURE: 
-STEP:1 Start the Xilinx navigator, Select and Name the New project.
+STEP:1 Start the vivado navigator, Select and Name the New project.
 STEP:2 Select the device family, device, package and speed. 
 STEP:3 Select new source in the New Project and select Verilog Module as the Source type. 
 STEP:4 Type the File Name and Click Next and then finish button. Type the code and save it. 
@@ -125,5 +127,5 @@ OUTPUT:
 
 RESULT:
 
-Hence the finite state machine has been simulated and synthesised using xilinx ISE.
+Hence the finite state machine has been simulated and synthesised using vivado ISE.
 
